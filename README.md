@@ -1,6 +1,6 @@
 # Hi, I'm Mariam Ashraf 👋
 
-Third-year Computer Science student at AASTMT (GPA 3.68/4.00), applying for **Lamdax's 6-month internship**. I build ML models from scratch and work with real-world data — and I document what I learn in every repo.
+Third-year Computer Science student at AASTMT (GPA 3.68/4.00). I build ML models from scratch and work with real-world data — and I document what I learn in every repo.
 
 ## 🔭 What I'm focused on
 - **Applied ML:** Logistic regression from scratch in NumPy, Decision Trees, and feature ablation on real datasets.
